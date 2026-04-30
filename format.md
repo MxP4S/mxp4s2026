@@ -9,7 +9,7 @@ MxP4S 2026 will be a non-archival workshop (without proceedings) and will consis
 
 The advance schedule of the workshop is described below.
 
-| Time     | Event | Person/people |
+| Time     | Event | Person(s)     |
 |----------|-------|---------------|
 | 8:30 am  | Introduction | |
 | 8:35 am  | [Invited talk 1](speakers.html#mixed-precision-math-unlocks-accelerated-computing): Mixed Precision Math Unlocks Accelerated Computing | Piotr Luszczek |
