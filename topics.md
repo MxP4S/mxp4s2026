@@ -1,3 +1,8 @@
+---
+layout: default
+title: Topics of Interest
+---
+
 Topics of interest include, but are not limited to:
 
 - theory and application of iterative refinement in different precisions in different applications

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Organizing Team
+---
+
 # Organizing team
 
 ## Chairs
