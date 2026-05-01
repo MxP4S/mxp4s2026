@@ -19,8 +19,8 @@ The advance schedule of the workshop is described below.
 | 9:39 am  | [Invited talk 5](speakers.html#inexact-yet-accurate-unlocking-low-precision-for-efficient-quantum-modelling-of-materials-at-scale): Inexact yet Accurate: Unlocking low precision for efficient quantum modelling of materials at scale | Phani Motamarri |
 | 9:55 am | [Invited talk 6](speakers.html#using-numerical-profiling-to-determine-where-mixed-precision-is-usable-in-multiphase-flow-simulations): Using Numerical Profiling to Determine Where Mixed Precision is Usable in Multiphase Flow Simulations | Akash Dhruv |
 | 10:11 am | Coffee break | |
-| 10:30 am | [Invited talk 7](speakers.html#do-we-need-fp64-for-supercomputing-what-can-we-do-if-we-dont-have-it): Do We Need FP64 for Supercomputing? What can we do if we don't have it? | Al Geist |
-| 10:46 am | Invited talk 8: TBD | Jens Glaser |
+| 10:38 am | Invited talk 7: TBD | Jens Glaser |
+| 10:46 am | [Invited talk 8](speakers.html#do-we-need-fp64-for-supercomputing-what-can-we-do-if-we-dont-have-it): Do We Need FP64 for Supercomputing? What can we do if we don't have it? | Al Geist |
 | 11:05 am | Panel discussion | Invited speakers |
 | 11:50 am | Audience questions | |
 | 11:55 am | Conclusion | |
