@@ -64,6 +64,15 @@ Modern HPC platforms offer growing capacity for low-precision arithmetic, yet sc
 ### About the speaker
 Akash Dhruv is an Assistant Computational Scientist at Argonne National Laboratory, where he works on the development of Flash-X multiphysics simulation software, AI-driven software engineering, and surrogate modeling for multiphase flows. In collaboration with researchers at RIKEN and ETH Zurich, he has explored mixed-precision strategies for scientific simulations using numerical profiling tools. He holds expertise in incompressible flow solvers and adaptive mesh refinement frameworks.
 
+## Leaving the FP64 Garden of Eden: A Survival Guide to GPU Mixed Precision
+**Jens Glaser**, Oak Ridge National Laboratory, USA
+
+### Abstract
+Computational scientists have long taken double precision for granted, and Moore’s law provided them with a false sense of security (until it didn't). Manufacturers, on the other hand, have reallocated most of their precious GPU chip area to faster, lower-precision arithmetic units, largely driven by the urgent global need to train hyperactive chatbots. The apparent split of the computational science community into FP64 holdouts and a mixed-precision avant-garde has presented manufacturers with an awkward choice: either double down on mixed precision at the risk of paying lip service to classical FP64 acceleration, or continue supporting double precision while delivering less capable mixed-precision units. Here, we examine how these hardware appeasement strategies fail in production. We investigate how the FP16 denormal flush of the AMD MI250X in the Frontier supercomputer creates catastrophic convergence issues in mixed-precision training. Based on cross-platform results, we argue that true "general purpose" GPU computing ought to provide unbiased performance across datatypes, rather than simply optimizing for whatever multiplies the fastest.
+
+### About the speaker
+Jens Glaser is a Computational Scientist at Oak Ridge National Laboratory, where his research involves artificial intelligence methods for drug discovery and experimental collaborations. Jens holds a Dr. rer. nat. in Physics from Leipzig University in Germany. He has worked as a postdoc at the Department of Chemical Engineering and Materials Science at the University of Minnesota and as an Assistant Research Scientist at the Department of Chemical Engineering at the University of Michigan. Jens has a passion for making simulations run at warp speed on GPUs and pushing their limits for computational science.
+
 ## Do We Need FP64 for Supercomputing? What can we do if we don’t have it?
 **Al Geist**, Oak Ridge National Laboratory, USA
 
