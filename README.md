@@ -6,7 +6,7 @@
 
 [Date](dates.md) | [Topics of interest](topics.md) | [Speakers](speakers.md) | [Format of the workshop](format.md) | [Organizers](orgranizers.md)
 
-Thank you for your interest in the MxP4S workshop! This is a half-day workshop at the 40th IEEE International Parallel & Distributed Processing Symposium, [IPDPS 2026](https://www.ipdps.org/). This first iteration of the workshop will consist of invited talks from several distinguished researchers and practitioners. If you are interested in numerical methods, simulations and/or high performance computing, please attend and participate in the audience discussions!
+Thank you for your interest in the MxP4S workshop! This was a half-day workshop at the 40th IEEE International Parallel & Distributed Processing Symposium, [IPDPS 2026](https://www.ipdps.org/). This first iteration of the workshop consisted of invited talks from several distinguished researchers and practitioners. If you are interested in mixed precision in numerical methods, simulations and/or high performance computing, please take a look at the speakers' slide decks in the [Speakers](speakers.md) page.
 
 New and upcoming HPC platforms are incorporating disproportionately large capacity for low-precision arithmetic, while their double-precision throughput is increasing slowly or even plateauing.
 ![Factors on the right represent growth between 2016 and 2025](img/flops_years_annotated.png "Evolution of compute throughput in AMD and NVIDIA GPUs in recent years")
