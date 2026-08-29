@@ -8,7 +8,7 @@ title: Organizing Team
 ## Chairs
 
 - Aditya Kashi, Oak Ridge National Laboratory (ORNL)
-- Piotr Luszczek, MIT Lincoln Laboratory
+- Piotr Luszczek, MIT Lincoln Laboratory and University of Tennessee
 
 ## Organizers
 
